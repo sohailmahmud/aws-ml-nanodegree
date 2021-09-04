@@ -1,4 +1,4 @@
-## Welcome to the AWS Machine Learning Scholarship Program!
+## AWS Machine Learning Scholarship Program Overview!
 ### Course Overview
 * Lesson 2: Introduction to Machine Learning – In this lesson, you will learn the fundamentals of supervised and unsupervised machine learning, including the process steps of solving machine learning problems, and explore several examples.
 * Lesson 3: Machine Learning with AWS – In this lesson, you will learn about advanced machine learning techniques such as generative AI, reinforcement learning, and computer vision. You will also learn how to train these models with AWS AI/ML services.
