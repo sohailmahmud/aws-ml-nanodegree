@@ -1,2 +1,2 @@
-# AWS Machine Learning Scholarship
+# AWS Machine Learning Scholarship Udacity
 
